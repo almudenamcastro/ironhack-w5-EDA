@@ -24,12 +24,16 @@ To validate this hypothesis we have defined the following Key Performance Indica
 - **CR**: Our conversion rate si defined as the % that complete the online process. This metric will be our northstar. 
 
 Other metrics: 
-- **Time spent**: Amount of time spent on the website.
+- **Time spent on the web**: Amount of time spent on the website.
+- **Avg. visit duration**:
+- **Avg. step duration**.
 - **Number of visits**: Nr of visits per client. 
 - **Error rate**: Nr of times a user has to go back in the process.  
+- **Step dropoff**:
+- **Step 0 bounce rate**:
 
 ## Data Sources: 
-The data sources can be found in the folder data/
+The data sources can be found in the folder data/raw
 - 'data/df_final demo.txt' Includes website events data. 
 - 'data/df_final_experiment_clients.txt' clientd data. 
 - 'data/df_final_web_data_pt_1.txt' experiment data. 
