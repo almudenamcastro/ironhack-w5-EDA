@@ -5,10 +5,11 @@
 | Name             | LinkedIn Profile | Brief Description |
 |------------------|------------------|-------------------|
 | Almudena Martín Castro         | https://www.linkedin.com/in/almudenamcastro/      |  Science communicator and data enthusiast |
-| Lidia Mayor Sanjuán       | https://www.linkedin.com/in/lidia-mayor-sanjuan-3b350930b/     | 
-Robotics Engineer and Data Analyst |
+| Lidia Mayor Sanjuán       | https://www.linkedin.com/in/lidia-mayor-sanjuan-3b350930b/     |  Robotics Engineer and Data Analyst |
 
 ## Project Overview
+
+[Explor the project presentation](https://www.canva.com/design/DAGSaUBeAss/qLx6aQaJyRyAbJ4eA27iMA/view?utm_content=DAGSaUBeAss&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ### Business Problem
 Vanguard is a US-based investment management company. As part of the the Customer Experience (CX) team, we have recently launched a digital experiment comparing two different versions of the website. No, we want to uncover the results of the test. 
