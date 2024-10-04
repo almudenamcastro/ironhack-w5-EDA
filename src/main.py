@@ -4,9 +4,10 @@ import matplotlib.pyplot as plt
 from scipy.stats import chi2_contingency
 import numpy as np
 import statsmodels.api as sm
-# append the path of the parent directory
 import sys
+# append the path of the parent directory
 sys.path.append("..")
+from lib.functions import *
 
 # load the raw data
 clients_raw = pd.read_csv('../data/raw/df_final_demo.txt')
